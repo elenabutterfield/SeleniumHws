@@ -19,7 +19,7 @@ public class Hw2WebDriverCommand {
         driver.navigate().back();
         driver.navigate().refresh();
 
-        driver.close();//
+        driver.close();
 
 
     }
